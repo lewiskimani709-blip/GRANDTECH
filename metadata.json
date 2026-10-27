@@ -1,0 +1,6 @@
+{
+  "name": "Technix - Technical Personnel & Work/Payment Registry",
+  "description": "Registry and smart matching engine for technical personnel, work modes, and payment structures to streamline client hiring and dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
